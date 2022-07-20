@@ -1,0 +1,50 @@
+h4{
+    color: black;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid black;
+
+   
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+.parent{
+    background-color: #6824d4;
+    color: white;
+}
+.Poststitle{
+   
+    display: flex;
+}
+
+.container{
+    width: 200px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.contained{
+    padding-bottom: 15px;
+}
+
+.containedcontent{
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+#blogtitle{
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.readmore{
+    font-size: 15px;
+    color: black;
+    
+}

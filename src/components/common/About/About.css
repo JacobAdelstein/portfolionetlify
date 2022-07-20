@@ -1,0 +1,128 @@
+#abtitle{
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.locationicon{
+  display:flex;
+  flex-direction: column;
+  padding-left: 100px;
+}
+
+ .tenticon, .schoolicon, .computericon{
+  padding-top: 30px;
+  display:flex;
+  flex-direction: column;
+  padding-left: 100px;
+}
+
+
+.About{
+
+    color: white;
+    background-color:#6824d4;
+    width: 100%;
+    
+}
+
+.me{
+  max-width: 100%;  
+  height: 400px;
+  padding-bottom: 20px;
+}
+
+#about1, #about2, #about3, #about4{
+
+  padding-top: 40px;
+  padding-left: 80px;
+  padding-right: 80px;
+  text-align: center;
+ 
+}
+
+#about2, #about3, #about4{
+padding-top: 100px;
+}
+
+
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.side {
+  flex: 60%;
+ 
+}
+
+.side2 {
+  flex: 40%;
+
+}
+
+
+
+@media (max-width: 1060px) {
+  .locationicon, .tenticon, .schoolicon, .computericon{
+
+    padding-top: 20px;
+  }
+
+  #about1{
+    padding-top: 60px;
+  
+  }
+
+  #about2, #about3, #about4{
+    padding-top: 80px;
+
+    }
+
+}
+
+
+
+  @media (max-width: 768px) {
+
+    #about1, #about2, #about3, #about4{
+
+      padding-top: 35px;
+      padding-left: 10vw;
+      padding-right: 10vw;
+    }
+
+
+    .locationicon, .tenticon, .schoolicon, .computericon{
+
+    padding-left: 39vw;
+
+    
+  }
+}
+
+@media (max-width: 360px) {
+
+ 
+  .locationicon, .tenticon, .schoolicon, .computericon{
+
+    padding-left: 20vw;
+    
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

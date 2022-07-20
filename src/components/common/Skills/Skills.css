@@ -1,0 +1,214 @@
+.Skills{
+    background-color: white ;
+   padding-bottom: 20px;
+ 
+}
+
+#skilltitle{
+font-size: 50px;
+font-weight: bold;
+}
+
+
+
+.python, .django, .java, .javascript, .react, .git{
+   display: inline-block;
+}
+
+@media (max-width: 1083px) {
+
+    .python, .django, .java, .javascript, .react, .git{
+        padding-right: 2vw;
+        padding-left: 2vw;
+        
+    }
+  
+    .python{
+        max-width: 100%;  
+        height: 100px;
+     }
+
+     .java{
+        max-width: 100%;  
+        height: 100px;
+
+     }
+
+     .javascript{
+        max-width: 100%;  
+        height: 100px;
+     }
+     .git{
+        max-width: 100%;  
+        height: 100px;
+
+     }
+     .react{
+        max-width: 100%;  
+        height: 100px;
+
+     }
+
+     .django{
+        max-width: 100%;  
+        height: 40px;
+
+     }
+  }
+  
+  
+  
+    @media (max-width: 808px) {
+  
+     .python{
+        max-width: 100%;  
+        height: 80px;
+     }
+
+     .java{
+        max-width: 100%;  
+        height: 100px;
+
+     }
+
+     .javascript{
+        max-width: 100%;  
+        height: 100px;
+     }
+     .git{
+        max-width: 100%;  
+        height: 100px;
+
+     }
+     .react{
+        max-width: 100%;  
+        height: 100px;
+
+     }
+
+     .django{
+        max-width: 100%;  
+        height: 40px;
+
+     }
+  }
+
+  @media (max-width: 782px) {
+  
+    .python{
+        max-width: 100%;  
+        height: 60px;
+     }
+
+     .java{
+        max-width: 100%;  
+        height: 60px;
+
+     }
+
+     .javascript{
+        max-width: 100%;  
+        height: 60px;
+     }
+     .git{
+        max-width: 100%;  
+        height: 60px;
+
+     }
+     .react{
+        max-width: 100%;  
+        height: 60px;
+
+     }
+
+     .django{
+        max-width: 100%;  
+        height: 20px;
+
+     }
+ 
+  
+}
+ 
+
+
+   
+ 
+
+
+  @media (min-width: 1084px) {
+
+    .python{
+        max-width: 100%;  
+        height: 130px;
+        padding-left: 2vw;
+        padding-right: 2vw;
+       
+
+     }
+
+     .java{
+        max-width: 100%;  
+        height: 130px;
+        padding-left: 2vw;
+        padding-right: 2vw;
+     
+
+
+     }
+
+     .javascript{
+        max-width: 100%;  
+        height: 130px;
+        padding-left: 2vw;
+        padding-right: 2vw;
+       
+
+     }
+     .git{
+        max-width: 100%;  
+        height: 130px;
+        padding-left: 2vw;
+        padding-right: 2vw;
+       
+
+
+
+     }
+     .react{
+        max-width: 100%;  
+        height: 130px; 
+        padding-left: 2vw;
+        padding-right: 2vw;
+        
+
+
+     }
+
+     .django{
+        max-width: 100%;  
+        height: 60px;
+        padding-left: 2vw;
+        padding-right: 2vw;
+
+
+
+     }
+
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

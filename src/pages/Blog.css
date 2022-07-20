@@ -1,0 +1,13 @@
+.blog{
+    height: 300px;
+    width: 300px;
+    background-color: #ebedf0;
+}
+
+.section{
+    display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 70px;
+
+}
